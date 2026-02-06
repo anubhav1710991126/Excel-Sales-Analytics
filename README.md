@@ -16,16 +16,16 @@ Compare market performance with sales targets to identify gaps and growth opport
 **🧠 Purpose of Sales Analytics**
 
 Help businesses monitor sales activities and evaluate overall performance in a structured way.
-**
+
 **📊 Why Sales Data Analysis Is Important**
-**
+
 Identifies sales trends and customer behavior
 
 Tracks key performance indicators (KPIs)
 
 Supports data-driven decision-making
-**
-📑 Role of Sales Reports**
+
+**📑 Role of Sales Reports**
 
 Decide effective customer discount strategies
 
@@ -33,8 +33,8 @@ Support negotiations using factual data
 
 Identify high-potential markets for expansion
 
-**💰 Finance Report
-🎯 Project Objectives**
+**💰 Finance Report**
+**🎯 Project Objectives**
 
 Create Profit & Loss (P&L) reports by Fiscal Year and by Months to analyze financial performance over time.
 
@@ -42,11 +42,11 @@ Create P&L reports by Markets to understand regional profitability.
 
 **📄 Finance Reports**
 
-P&L Statement by Fiscal Year
+[P&L Statement by Fiscal Year](https://github.com/anubhav1710991126/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)
 
-P&L Statement by Months
+[P&L Statement by Months](https://github.com/anubhav1710991126/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)
 
-P&L Statement by Markets
+[P&L Statement by Markets](https://github.com/anubhav1710991126/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 **🧠 Purpose of Financial Analytics**
 
