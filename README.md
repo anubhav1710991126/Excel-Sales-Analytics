@@ -1,43 +1,46 @@
-**Excel Sales & Finance Analytics**
+**📊 Excel Sales & Finance Analytics Project**
+**🔍 Overview**
 
-This project focuses on analyzing Sales and Financial performance using Excel-based analytics to generate meaningful insights for business decision-making.
+This project focuses on analyzing sales and financial data using Microsoft Excel.
+The goal is to convert raw business data into clear, meaningful reports that help management make better decisions.
 
 **📈 Sales Report
 🎯 Project Objectives**
 
-Develop a detailed Customer Performance Report
- to evaluate customer-wise sales performance.
+Create a detailed [Customer Performance Report](https://github.com/anubhav1710991126/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)
 
-Perform a structured comparison between market performance and sales targets to identify gaps and growth opportunities.
+ to understand customer-wise sales performance.
 
+Compare market performance with sales targets to identify gaps and growth opportunities.
+****
 **🧠 Purpose of Sales Analytics**
 
-Enable organizations to effectively track, monitor, and assess their sales activities and overall performance.
+Help businesses monitor sales activities and evaluate overall performance in a structured way.
+**
+**📊 Why Sales Data Analysis Is Important**
+**
+Identifies sales trends and customer behavior
 
-**📊 Importance of Sales Data Analysis**
+Tracks key performance indicators (KPIs)
 
-Identify sales trends and customer behavior patterns
+Supports data-driven decision-making
+**
+📑 Role of Sales Reports**
 
-Monitor key performance indicators (KPIs)
+Decide effective customer discount strategies
 
-Support data-driven business decisions
+Support negotiations using factual data
 
-**📑 Role of Sales Reports**
-
-Assist in defining effective customer discount strategies
-
-Support negotiations with customers using data-backed insights
-
-Identify potential markets and countries for business expansion
+Identify high-potential markets for expansion
 
 **💰 Finance Report
 🎯 Project Objectives**
 
 Create Profit & Loss (P&L) reports by Fiscal Year and by Months to analyze financial performance over time.
 
-Develop P&L reports by Markets to assess regional profitability.
+Create P&L reports by Markets to understand regional profitability.
 
-**📄 Reports:**
+**📄 Finance Reports**
 
 P&L Statement by Fiscal Year
 
@@ -47,44 +50,60 @@ P&L Statement by Markets
 
 **🧠 Purpose of Financial Analytics**
 
-Evaluate financial performance and profitability
+Evaluate financial performance
 
-Support strategic and operational decision-making
+Support business and strategic decisions
 
-Enable clear communication with business stakeholders
+Communicate financial results clearly to stakeholders
 
-**📊 Importance of Finance Data Analysis**
+**📊 Why Finance Data Analysis Is Important**
 
-Benchmark performance against previous periods and industry standards
+Compare current performance with past periods
 
-Provide a strong foundation for budgeting and forecasting
+Support budgeting and forecasting
+
+Benchmark performance across markets
 
 **📑 Role of Financial Reports**
 
-Align financial insights with organizational goals
+Align financial planning with business goals
 
-Build confidence in the company’s financial planning and outlook
+Build confidence in financial decision-making
 
-**🛠️ Technical Skills**
+**🛠️ Technical Skills Used**
 
-✅ Strong understanding of ETL processes (Extract, Transform, Load)
+✅ ETL process (Extract, Transform, Load) using Power Query
 
-✅ Creating and managing date tables using Power Query
+✅ Data cleaning and transformation
+
+✅ Creating date tables for time-based analysis
 
 ✅ Deriving fiscal months and fiscal quarters
 
-✅ Building data model relationships using Power Pivot
+✅ Building data models using Power Pivot
 
-✅ Integrating additional datasets into an existing data model
+✅ Integrating multiple datasets into one model
 
-✅ Using DAX to create calculated columns and metrics
+✅ Creating calculated columns using DAX
 
-**🤝 Soft Skills**
+**🤝 Soft Skills Demonstrated**
 
-✅ Clear understanding of Sales and Finance reporting concepts
+✅ Strong understanding of Sales and Finance reporting
 
-✅ Designing user-friendly and stakeholder-focused reports
+✅ Ability to convert business needs into reports
 
-✅ Optimizing report performance through fine-tuning
+✅ Designing user-friendly and clear reports
 
-✅ Following a structured and systematic report development approach
+✅ Attention to detail and report optimization
+
+✅ Structured and planned approach to report building
+
+**⭐ Key Business Value**
+
+Improved visibility into customer and market performance
+
+Identified high-performing and low-performing markets
+
+Supported pricing, discount, and expansion decisions
+
+Delivered clear, decision-ready reports to management
